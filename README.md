@@ -30,9 +30,7 @@
 
 📫 Reach me at **[rohul4316@gmail.com](mailto:rohul4316@gmail.com)**
 
-😄 Pronouns: **He/Him**
 
-⚡ Fun Fact: I enjoy building real-world projects and learning technologies by applying them directly in practical work.
 
 ---
 
@@ -208,7 +206,7 @@ Next.js, FastAPI, Supabase, PostgreSQL, Better Auth, Vercel
 
 ---
 
-## GitHub Stats 📈
+
 
 ## GitHub Stats 📈
 
