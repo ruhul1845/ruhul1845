@@ -213,10 +213,15 @@ Next.js, FastAPI, Supabase, PostgreSQL, Better Auth, Vercel
 <div align="center">
 
 <!-- Contribution Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ruhul1845&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+<div align="center">
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhul1845&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=ruhul1845&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ruhul Amin GitHub Stats" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhul1845&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Ruhul Amin Top Languages" />
+
+</div>
 
 <br />
 
