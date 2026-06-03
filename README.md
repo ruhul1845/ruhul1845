@@ -210,34 +210,31 @@ Next.js, FastAPI, Supabase, PostgreSQL, Better Auth, Vercel
 
 ## GitHub Stats 📈
 
+## GitHub Stats 📈
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ruhul1845&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+<!-- Contribution Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=ruhul1845&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
 
+<!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhul1845&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 <br />
 
+<!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=ruhul1845&theme=tokyonight&hide_border=true" />
+
+<br />
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhul1845&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-## Open Source Contribution ✨
 
-I am continuously improving my development skills by building real-world projects, learning modern technologies, and exploring open-source collaboration. I am interested in contributing to projects related to **web development, backend APIs, cybersecurity, and machine learning**.
-
----
-
-## Certifications, Honors & Awards 🏅
-
-* B.Sc. in Computer Science and Engineering — University of Dhaka
-* Built and deployed multiple full-stack web applications
-* Practical experience with frontend, backend, database, authentication, and cloud deployment
-* Developed real-world projects using React, Next.js, Express.js, FastAPI, PostgreSQL, MongoDB, and Supabase
-
----
 
 ## Connect With Me 🌍
 
@@ -253,6 +250,9 @@ I am continuously improving my development skills by building real-world project
 
 <a href="mailto:rohul4316@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://facebook.com/ruhul.amiinn">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 </div>
